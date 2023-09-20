@@ -1,6 +1,7 @@
 # Center of Pressure on pad
 
-![cop calculation](https://github.com/donnyph/center-of-pressure-on-pad/assets/124544268/8dc04ec5-fd95-483a-9094-a997239cfc74)
+![cop calculate](https://github.com/donnyph/center-of-pressure-on-pad/assets/124544268/acde2aa7-fe02-4f5f-b5f1-32455f77ea02)
+
 
 ## [References:](#references)
 
