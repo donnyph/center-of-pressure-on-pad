@@ -1,1 +1,1 @@
-# center-of-pressure-on-pad
+# Center of Pressure on pad
