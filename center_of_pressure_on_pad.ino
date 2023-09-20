@@ -193,6 +193,7 @@ void loop() {
   x = (sAverage_1 * xa + sAverage_2 * xb + sAverage_3 * xc + sAverage_4 * xd) / sum;
   y = (sAverage_1 * ya + sAverage_2 * yb + sAverage_3 * yc + sAverage_4 * yd) / sum;
 
+  Serial.print("/");
   Serial.print(x);
   Serial.print("/");
   Serial.print(y);
